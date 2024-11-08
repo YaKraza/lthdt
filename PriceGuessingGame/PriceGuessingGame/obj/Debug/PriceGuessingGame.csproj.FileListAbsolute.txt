@@ -1,0 +1,14 @@
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.exe.config
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.exe
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.pdb
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.csproj.AssemblyReference.cache
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.exe
+C:\Users\pct2k\source\repos\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.pdb
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.exe.config
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.exe
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\bin\Debug\PriceGuessingGame.pdb
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.exe
+D:\Tài liệu học tập\PriceGuessingGame\PriceGuessingGame\obj\Debug\PriceGuessingGame.pdb

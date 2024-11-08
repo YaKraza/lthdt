@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Name>Gạo ST25</Name>
+    <Price>22000</Price>
+  </Product>
+  <Product>
+    <Name>Thịt lợn (1kg)</Name>
+    <Price>150000</Price>
+  </Product>
+  <Product>
+    <Name>Trứng gà (10 quả)</Name>
+    <Price>30000</Price>
+  </Product>
+  <Product>
+    <Name>Bút bi Thiên Long</Name>
+    <Price>5000</Price>
+  </Product>
+  <Product>
+    <Name>Vở ô ly</Name>
+    <Price>7000</Price>
+  </Product>
+  <Product>
+    <Name>Sữa tươi Vinamilk (1 lít)</Name>
+    <Price>30000</Price>
+  </Product>
+  <Product>
+    <Name>Mì Hảo Hảo (gói)</Name>
+    <Price>3500</Price>
+  </Product>
+  <Product>
+    <Name>Dầu ăn Neptune (1 lít)</Name>
+    <Price>60000</Price>
+  </Product>
+  <Product>
+    <Name>Đường tinh luyện (1kg)</Name>
+    <Price>20000</Price>
+  </Product>
+  <Product>
+    <Name>Nước mắm Nam Ngư (500ml)</Name>
+    <Price>25000</Price>
+  </Product>
+  <Product>
+    <Name>Bột giặt OMO (400g)</Name>
+    <Price>20000</Price>
+  </Product>
+  <Product>
+    <Name>Dầu gội Clear (380ml)</Name>
+    <Price>95000</Price>
+  </Product>
+  <Product>
+    <Name>Kem đánh răng P/S (180g)</Name>
+    <Price>25000</Price>
+  </Product>
+  <Product>
+    <Name>Bánh Oreo (gói)</Name>
+    <Price>12000</Price>
+  </Product>
+  <Product>
+    <Name>Kem Wall’s (que)</Name>
+    <Price>10000</Price>
+  </Product>
+  <Product>
+    <Name>Phở ăn liền Cung Đình (gói)</Name>
+    <Price>6000</Price>
+  </Product>
+  <Product>
+    <Name>Tương ớt Chinsu (250g)</Name>
+    <Price>12000</Price>
+  </Product>
+  <Product>
+    <Name>Sữa đặc Ngôi Sao Phương Nam (380g)</Name>
+    <Price>20000</Price>
+  </Product>
+  <Product>
+    <Name>Nước giải khát Coca-Cola (lon 330ml)</Name>
+    <Price>10000</Price>
+  </Product>
+  <Product>
+    <Name>Bia Tiger (lon 330ml)</Name>
+    <Price>15000</Price>
+  </Product>
+  <Product>
+    <Name>Dầu xả Dove (330ml)</Name>
+    <Price>95000</Price>
+  </Product>
+  <Product>
+    <Name>Nước rửa chén Sunlight (750ml)</Name>
+    <Price>25000</Price>
+  </Product>
+  <Product>
+    <Name>Kem dưỡng da Nivea (50ml)</Name>
+    <Price>75000</Price>
+  </Product>
+  <Product>
+    <Name>Bột nêm Knorr (400g)</Name>
+    <Price>25000</Price>
+  </Product>
+  <Product>
+    <Name>Đậu xanh (1kg)</Name>
+    <Price>45000</Price>
+  </Product>
+  <Product>
+    <Name>Khoai lang (1kg)</Name>
+    <Price>20000</Price>
+  </Product>
+  <Product>
+    <Name>Táo Mỹ (1kg)</Name>
+    <Price>70000</Price>
+  </Product>
+  <Product>
+    <Name>Chuối (1kg)</Name>
+    <Price>15000</Price>
+  </Product>
+  <Product>
+    <Name>Sữa chua Vinamilk (hộp 100g)</Name>
+    <Price>7000</Price>
+  </Product>
+  <Product>
+    <Name>Bánh mì sandwich (bịch)</Name>
+    <Price>25000</Price>
+  </Product>
+  <Product>
+    <Name>Bột mì đa dụng (1kg)</Name>
+    <Price>20000</Price>
+  </Product>
+</ArrayOfProduct>
